@@ -1,9 +1,7 @@
-# Quotes
-
-### By Ian Kipkoech
+### Quotes
 
 ## Description
-This is a simple Angular 5 application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
+An application that allows a user to create quotes and have those quotes voted on whether they are terrible or inspirational
 
 ## User Requirements
 The applications allows users to do the following:
