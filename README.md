@@ -45,7 +45,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Live site
-To view the page click here: [QUOTES](https://eyern.github.io/quotes/)
+To view the page click here: [QUOTES](https://eyern.github.io/Quotes/)
 
 ## Technology Used
  -Angular JS
